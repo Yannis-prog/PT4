@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Il faut utiliser la commande
+###  `npm instal ` 
+# Puis on lance le Morpion avec 
+###  `npm start ` 
+
+
+# READ ME AUTOMATIQUE 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
